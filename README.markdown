@@ -1,3 +1,0 @@
-This is my Sample_App from Ruby.RailsTutorial.org...
-
-I hope this bitch works!

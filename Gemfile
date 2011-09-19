@@ -13,6 +13,8 @@ group :test do
   gem 'webrat', '0.7.1'
 end
 
+gem 'spork', '0.9.0.rc8'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
